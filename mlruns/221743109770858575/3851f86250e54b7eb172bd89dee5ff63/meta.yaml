@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221743109770858575/3851f86250e54b7eb172bd89dee5ff63/artifacts
+end_time: 1727013746841
+entry_point_name: ''
+experiment_id: '221743109770858575'
+lifecycle_stage: active
+run_id: 3851f86250e54b7eb172bd89dee5ff63
+run_name: capricious-steed-371
+run_uuid: 3851f86250e54b7eb172bd89dee5ff63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727013677521
+status: 3
+tags: []
+user_id: asada

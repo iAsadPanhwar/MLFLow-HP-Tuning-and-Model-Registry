@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221743109770858575/ddbc323b1e4d4244a924e1bc5759d6f7/artifacts
+end_time: 1727026639390
+entry_point_name: ''
+experiment_id: '221743109770858575'
+lifecycle_stage: active
+run_id: ddbc323b1e4d4244a924e1bc5759d6f7
+run_name: stately-colt-514
+run_uuid: ddbc323b1e4d4244a924e1bc5759d6f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727026599509
+status: 3
+tags: []
+user_id: asada

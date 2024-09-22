@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221743109770858575/c3a20a05b3c74546863961f991373c78/artifacts
+end_time: 1727026639390
+entry_point_name: ''
+experiment_id: '221743109770858575'
+lifecycle_stage: active
+run_id: c3a20a05b3c74546863961f991373c78
+run_name: enthused-colt-57
+run_uuid: c3a20a05b3c74546863961f991373c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727026599509
+status: 3
+tags: []
+user_id: asada

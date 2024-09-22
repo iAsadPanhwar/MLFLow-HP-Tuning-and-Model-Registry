@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221743109770858575/c86532ca3af54046860b312162e89a93/artifacts
+end_time: 1727026639390
+entry_point_name: ''
+experiment_id: '221743109770858575'
+lifecycle_stage: active
+run_id: c86532ca3af54046860b312162e89a93
+run_name: fortunate-rat-380
+run_uuid: c86532ca3af54046860b312162e89a93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727026599509
+status: 3
+tags: []
+user_id: asada

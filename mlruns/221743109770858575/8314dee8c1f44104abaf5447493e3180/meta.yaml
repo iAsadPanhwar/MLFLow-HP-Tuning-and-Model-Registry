@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/221743109770858575/8314dee8c1f44104abaf5447493e3180/artifacts
+end_time: 1727026639390
+entry_point_name: ''
+experiment_id: '221743109770858575'
+lifecycle_stage: active
+run_id: 8314dee8c1f44104abaf5447493e3180
+run_name: fearless-moth-978
+run_uuid: 8314dee8c1f44104abaf5447493e3180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727026599509
+status: 3
+tags: []
+user_id: asada
